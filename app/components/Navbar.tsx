@@ -5,8 +5,8 @@ import { RxHamburgerMenu } from "react-icons/rx";
 
 export default function Navbar(){
     const [isOpen, setOpen] = useState(false); 
-    const menuRef = useRef(null); 
-    const hamburgerIconRef = useRef(null);
+    const menuRef = useRef<HTMLDivElement>(null); 
+    const hamburgerIconRef = useRef<HTMLDivElement>(null);
 
     useEffect(() => {
         const handleClickEvent = (event: MouseEvent) => {
