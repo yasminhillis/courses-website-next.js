@@ -159,7 +159,6 @@ Built as a learning project for responsive web development
 Inspired by modern course platforms
 
 📧 Contact
-Your Name - @yasminhillis
-Project Link: https://github.com/yourusername/course-landing-page
+@yasminhillis
 
 Built with ❤️ using Next.js and Tailwind CSS
