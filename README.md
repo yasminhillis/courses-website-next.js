@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for an online course platform built with Next.js, TypeScript, and Tailwind CSS.
 
-> Design by [Resky Fernanda](https://www.figma.com/community) from Figma Community.
+> Design by Resky Fernanda from Figma Community.
 
 ---
 
