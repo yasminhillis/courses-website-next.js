@@ -12,10 +12,10 @@ export default function Collaboration(){
                 <Image src="/logo-2.png" alt="company logo" width={90} height={37}/>
                 <Image src="/logo-3.png" alt="company logo" width={90} height={37}/>
                 <Image src="/logo-4.png" alt="company logo" width={90} height={37}/>
-                <Image src="/aqsa-uni.png" alt="company logo" width={90} height={37}/>
+                <Image className='lg:mb-3' src="/aqsa-uni.png" alt="company logo" width={90} height={37}/>
                 <Image src="/logo-6.png" alt="company logo" width={90} height={37}/>
-                <Image src="/IUG.png" alt="company logo" width={60} height={37}/>
-                <Image src="/aug.png" alt="company logo" width={90} height={37}/>
+                <Image className='lg:mt-1 md:w-15' src="/IUG.png" alt="company logo" width={60} height={37}/>
+                <Image className='lg:mt-1 md:w-43' src="/aug.png" alt="company logo" width={165} height={37}/>
                 <Image src="/logo-9.png" alt="company logo" width={90} height={37}/>
                 <Image src="/logo-10.png" alt="company logo" width={90} height={37}/>
             </div>
